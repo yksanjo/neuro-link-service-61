@@ -1,5 +1,12 @@
 # neuro-link-service-61
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/neuro-link-service-61/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/neuro-link-service-61/actions)
+![License](https://img.shields.io/github/license/yksanjo/neuro-link-service-61)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/neuro-link-service-61)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/neuro-link-service-61)
+
 ## Detailed Description
 
 neuro-link-service-61 is maintained as an industry-grade software project with production-ready engineering practices.  
